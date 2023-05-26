@@ -33,3 +33,4 @@ Bu proje, kullanıcının sıralama algoritmalarını ve grafik türlerini kulla
 
 ![insertion_sort-min](https://github.com/servayildiz/Siralama-Algoritmasi-Gorsellestiricisi/assets/101520940/06a6ed74-5f97-4ce9-993e-4eab9cb56c16)
 
+![quick_sort-min](https://github.com/servayildiz/Siralama-Algoritmasi-Gorsellestiricisi/assets/101520940/a32476f3-6e79-4326-bc83-9153489c8f38)
