@@ -17,7 +17,8 @@ Bu proje, kullanıcının sıralama algoritmalarını ve grafik türlerini kulla
 
 - Program çalıştırıldıktan sonra karşılaşılan arayüzün örnek görseli yukarıda yer almaktadır. Grafikte görmek istenilen değerler, Veriler kısmına arada virgül bırakılarak yazıldıktan sonra istenilen sıralama algoritması ve grafik tipi seçilir. 
 - Oluştur butonuna tıklandığında, elemanlar seçilen grafik tipine göre ekranda görüntülenmektedir.
- ![Grafik](https://github.com/servayildiz/Siralama-Algoritmasi-Gorsellestiricisi/assets/104609453/2198a826-3478-4290-8adb-b5bb605035da)
+ ![Grafik](https://github.com/servayildiz/Siralama-Algoritmasi-Gorsellestiricisi/assets/104609453/4bdcd33b-b5df-4ea5-8da9-2b8aebd865d6)
+
 
 - Seçilen algoritmaya göre sıralama yapıldığında aşağıdaki gibi bir sıralama elde edilecektir. 
 (bubble sort bar grafik gifi gelecek)
