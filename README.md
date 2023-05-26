@@ -24,12 +24,12 @@ Bu proje, kullanıcının sıralama algoritmalarını ve grafik türlerini kulla
 (bubble sort bar grafik gifi gelecek)
 - Yukarıda görüldüğü üzere verileri girilen ve sıralanan algoritmanın karmaşıklık analizi, sıralama boyunca yapılan karşılaştırma sayısı ve gerçekleşme süresi arayüzde gösterilmektedir.
 # Programda Sıralama Algoritmalarının Örnekleri
-- Bubble Sort örneği:
+
 ![bubble_sort-min](https://github.com/servayildiz/Siralama-Algoritmasi-Gorsellestiricisi/assets/101520940/ea1caccd-db43-4d48-84d7-021a45103ca5)
-- Merge Sort örneği:
+
 ![merge_sortgif-min](https://github.com/servayildiz/Siralama-Algoritmasi-Gorsellestiricisi/assets/101520940/a16b1bfb-fbfc-4c06-b887-a29bbb81fcfb)
-- Selection Sort örneği:
+
 ![selection_sort-min](https://github.com/servayildiz/Siralama-Algoritmasi-Gorsellestiricisi/assets/101520940/6cd78d20-3889-4c15-a3e3-73ef403d1947)
-- Insertion Sort örneği:
+
 ![insertion_sort-min](https://github.com/servayildiz/Siralama-Algoritmasi-Gorsellestiricisi/assets/101520940/06a6ed74-5f97-4ce9-993e-4eab9cb56c16)
-- Quick Sort örneği:
+
